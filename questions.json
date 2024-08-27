@@ -1,0 +1,205 @@
+{
+  "heading": "Collective noun",
+  "topics": [
+    {
+      "heading": "Collective noun.",
+      "questions": [{
+        "questionNo": 1,
+        "question": "A _____ of musicians play together.",
+        "options": [
+            "Choir",
+            "Band",
+            "Army"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 2,
+        "question": "We call a group of sailors a _____.",
+        "options": [
+            "Pack",
+            "Crew",
+            "Pride"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 3,
+        "question": "Fill in the blank:<br> A _____ of grapes hangs on the vine. (bunch / bouquet)",
+        "options": [
+            "Bunch",
+            "Bouquet"
+        ],
+        "answer": 0
+    },
+    {
+        "questionNo": 4,
+        "question": "A group of squirrels is called a team.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": 0
+    },
+    {
+        "questionNo": 5,
+        "question": "Many warriors together are a _____.",
+        "options": [
+            "Pack",
+            "Swarm",
+            "Troop"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 6,
+        "question": "Fill in the blank:<br> A _____ of ants work hard together.",
+        "options": [
+            "Colony",
+            "Group"
+        ],
+        "answer": 0
+    },
+    {
+        "questionNo": 7,
+        "question": "Which word means a group of fish swimming together?",
+        "options": [
+            "School",
+            "Herd",
+            "Flock"
+        ],
+        "answer": 0
+    },
+    {
+        "questionNo": 8,
+        "question": "A _____ of elephants walked through the jungle.",
+        "options": [
+            "Herd",
+            "Pack",
+            "Swarm"
+        ],
+        "answer": 0
+    },
+    {
+        "questionNo": 9,
+        "question": "Which animal is usually in a pride?",
+        "options": [
+            "Lions",
+            "Wolves",
+            "Birds"
+        ],
+        "answer": 0
+    },
+    {
+        "questionNo": 10,
+        "question": "A _____ of bees makes honey in the hive.",
+        "options": [
+            "Flock",
+            "Herd",
+            "Colony"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 11,
+        "question": "What do we call a group of ships sailing together?",
+        "options": [
+            "A team of ships",
+            "A fleet of ships",
+            "A pack of ships"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 12,
+        "question": "Choose the odd one out:",
+        "options": [
+            "Flock of birds",
+            "School of fish",
+            "Bunch of lions"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 13,
+        "question": "Fill in the blank:<br> The teacher led a _____ of students to the library.",
+        "options": [
+            "Herd",
+            "Group"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 14,
+        "question": "Which word means many trees together?",
+        "options": [
+            "Bunch",
+            "Forest",
+            "Herd"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 15,
+        "question": "What's a group of wolves called?",
+        "options": [
+            "Team",
+            "Flock",
+            "Pack"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 16,
+        "question": "Which is correct?",
+        "options": [
+            "A pride of tigers",
+            "A pride of lions",
+            "A pride of bears"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 17,
+        "question": "Fill in the blank: <br>The _____ of musicians played beautiful music.",
+        "options": [
+            "Band",
+            "Choir"
+        ],
+        "answer": 0
+    },
+    {
+        "questionNo": 18,
+        "question": "What do we call a group of islands close together?",
+        "options": [
+            "A bunch of islands",
+            "A herd of islands",
+            "A chain of islands"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 19,
+        "question": "Choose the right word: <br>'The _____ of grapes was ripe and sweet.'",
+        "options": [
+            "Pack",
+            "Bunch",
+            "Fleet"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 20,
+        "question": "What do we call many stars in the sky?",
+        "options": [
+            "A bunch of stars",
+            "A forest of stars",
+            "A constellation of stars"
+        ],
+        "answer": 2
+    }
+    ]
+    
+    }
+  ]
+}
